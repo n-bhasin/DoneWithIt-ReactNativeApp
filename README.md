@@ -24,7 +24,7 @@ A mobile app for selling the used goods like shoes, jacket, couch etc. This is b
 ![register](/documents/register.png)
 ![home](/documents/home.png)
 ![addListing](/documents/addListing.png)
-![myaccount](/documents/myaccount.png)
+<img src="/documents/myaccount.png" height="300" width="200" />
 
 # Packages Used
 
