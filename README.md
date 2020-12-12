@@ -18,7 +18,7 @@ A mobile app for selling the used goods like shoes, jacket, couch etc. This is b
 
 # Screenshots
 
-<span>
+<span style="padding: 10px">
 <img src="/documents/splash.png" height="400" width="200" />
 <img src="/documents/welcome.png" height="400" width="200" />
 <img src="/documents/login.png " height="400" width="200" />
@@ -27,6 +27,7 @@ A mobile app for selling the used goods like shoes, jacket, couch etc. This is b
 <img src="/documents/addListing.png" height="400" width="200" />
 <img src="/documents/myaccount.png" height="400" width="200" />
 </span>
+
 # Packages Used
 
 ## Expo
