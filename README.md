@@ -18,14 +18,15 @@ A mobile app for selling the used goods like shoes, jacket, couch etc. This is b
 
 # Screenshots
 
-![splash](/documents/splash.png)
-![welcome](/documents/welcome.png)
-![login](/documents/login.png)
-![register](/documents/register.png)
-![home](/documents/home.png)
-![addListing](/documents/addListing.png)
-<img src="/documents/myaccount.png" height="300" width="200" />
-
+<span>
+<img src="/documents/splash.png" height="400" width="200" />
+<img src="/documents/welcome.png" height="400" width="200" />
+<img src="/documents/login.png " height="400" width="200" />
+<img src="/documents/register.png" height="400" width="200" />
+<img src="/documents/home.png" height="400" width="200" />
+<img src="/documents/addListing.png" height="400" width="200" />
+<img src="/documents/myaccount.png" height="400" width="200" />
+</span>
 # Packages Used
 
 ## Expo
