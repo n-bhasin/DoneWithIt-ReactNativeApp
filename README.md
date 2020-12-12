@@ -18,13 +18,13 @@ A mobile app for selling the used goods like shoes, jacket, couch etc. This is b
 
 # Screenshots
 
-![splash](/documents/splash].png)
-![welcome](/documents/welcome].png)
-![login](/documents/login].png)
-![register](/documents/register].png)
-![home](/documents/home].png)
-![addListing](/documents/addListing].png)
-![myaccount](/documents/myaccount].png)
+![splash](/documents/splash.png)
+![welcome](/documents/welcome.png)
+![login](/documents/login.png)
+![register](/documents/register.png)
+![home](/documents/home.png)
+![addListing](/documents/addListing.png)
+![myaccount](/documents/myaccount.png)
 
 # Packages Used
 
