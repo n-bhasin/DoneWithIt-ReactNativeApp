@@ -18,7 +18,7 @@ A mobile app for selling the used goods like shoes, jacket, couch etc. This is b
 
 # Screenshots
 
-<span style="padding: 30px">
+<span style="padding-right: 50px">
 <img src="/documents/splash.png" height="400" width="200" />
 <img src="/documents/welcome.png" height="400" width="200" />
 <img src="/documents/login.png " height="400" width="200" />
